@@ -1,1 +1,1 @@
-Django Rest Framework Boilerplate
+Django Rest Framework Starter Boilerplate with Auth
